@@ -30,6 +30,7 @@ En esta guía, se propone adaptar esta metodología mediante el uso de asistente
   4. [Evaluar un Diseño Orientado a Objetos: Auditoría SOLID](/Ejemplos-uso/Solid/README.md)
 
 <br>
+
 ---
 
 La presente guía es el resultado del esfuerzo conjunto de un equipo multidisciplinar de profesores de la Universidad de Valladolid, en su campus de Segovia, desarrollado en el contexto de un proyecto de innovación docente. Este proyecto tiene como propósito mejorar el proceso de enseñanza-aprendizaje de la programación orientada a objetos mediante la incorporación de asistentes de IA.
