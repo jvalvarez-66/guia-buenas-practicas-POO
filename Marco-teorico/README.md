@@ -19,11 +19,15 @@ El concepto de *Pair Programming* (programación en pareja) se basa en la colabo
 
 ---
 
-## 🖥️ Aplicación en el Entorno de Programación Orientada a Objetos (POO)
+## 1.1 Aplicación en el Entorno de Programación Orientada a Objetos (POO) 🖥️
 
 En la Programación Orientada a Objetos, la IA puede proporcionar asistencia sobre aspectos como diseño de clases, jerarquías de herencia y relaciones de asociación, pero es esencial que el estudiante continúe ejerciendo el rol principal como *Driver*. Al trabajar con un asistente de IA, se puede establecer la relación de *pair programming* de la siguiente manera:
 - 👨‍🎓 **El Rol del Estudiante (Driver)**: El estudiante desarrolla la lógica y estructura del programa, creando clases, atributos y métodos de acuerdo con los principios de POO. Además, decide cómo organizar la interacción entre objetos y los patrones de diseño a utilizar.
 - 🤖 **El Rol de la IA (Observer)**: La IA sugiere correcciones, recomienda mejores prácticas de diseño y ayuda a identificar errores de compilación o de lógica. Sin embargo, estas sugerencias deben ser revisadas críticamente por el estudiante para reforzar su aprendizaje y garantizar que se entienda el proceso de implementación.
+
+## 1.2. Panorama de Asistentes de IA para su uso en el Pair Programming
+En la actualidad, existe una variedad de asistentes de inteligencia artificial que pueden ser herramientas útiles para el pair programming y otras actividades de desarrollo colaborativo. Entre estos asistentes cabe destacar a Claude, desarrollado por Anthropic; ChatGPT, creado por OpenAI con financiamiento de Microsoft; Bard, desarrollado por Google; Gemini, de Google DeepMind; Mistral, de Mistral AI; y LLaMA, de Meta AI. Si bien esta lista puede cambiar a medida que la tecnología evoluciona, conocer las opciones actuales permite elegir el asistente que mejor se adapte a las necesidades específicas de cada proyecto. También  existen asistentes diseñados específicamente para la el proceso de codificación, como GitHub Copilot, que, gracias a su integración en entornos de desarrollo, ayuda a los programadores a escribir código de manera más eficiente y a reducir errores comunes. Otros ejemplos de este tipo de asistentes son Amazon CodeWhisperer, orientado a ayudar en el desarrollo con lenguajes soportados por AWS, y Tabnine, que utiliza IA para ofrecer sugerencias de código predictivas en múltiples lenguajes. 
+Como recurso adicional, la plataforma [lmarena.ai](https://lmarena.ai/) permite probar varios de estos asistentes de manera gratuita, incluso comparando sus respuestas en tiempo real para evaluar sus fortalezas y limitaciones en distintos contextos de uso.
 
 ---
 
