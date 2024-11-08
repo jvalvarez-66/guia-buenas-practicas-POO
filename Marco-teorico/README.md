@@ -33,6 +33,9 @@ Como recurso adicional, la plataforma [lmarena.ai](https://lmarena.ai/) permite 
 
 ## 2. Interacción Efectiva con la IA para Proyectos de POO 🚀
 
+Lograr una interacción efectiva con el asistente de IA es fundamental para aprovechar de manera eficiente y productiva esta tecnología. En este contexto, es importante saber establecer un diálogo colaborativo y activo con la IA, saber utilizar técnicas de ingeniería del prompt para formular preguntas más precisas y considerar los aspectos éticos necesarios en entornos de aprendizaje, subrayando tanto las responsabilidades como las limitaciones de esta tecnología emergente.
+
+
 ### 2.1 Diálogo Activo y Colaborativo 💬🤝🤖 
 
 El éxito de la colaboración entre el estudiante y el asistente de IA radica en un diálogo continuo y participativo. Para aprovechar al máximo la IA, el estudiante debe involucrarse activamente en la comunicación, proporcionando el contexto necesario, formulando preguntas precisas y justificando sus decisiones de desarrollo. No se trata de una interacción unilateral; es esencial que el estudiante evalúe las sugerencias de la IA y reflexione sobre el código, imitando una colaboración de *pair programming*.
