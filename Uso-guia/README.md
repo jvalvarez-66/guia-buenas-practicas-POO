@@ -4,7 +4,7 @@
 
 Esta guía está diseñada para ayudar a los estudiantes a integrar de manera efectiva el uso de asistentes de inteligencia artificial en la asignatura de Programación Orientada a Objetos (POO). Para aprovechar al máximo esta guía, se recomienda seguir los siguientes pasos:
 
-## 1. Familiarizarse con los Conceptos Teóricos 📖 
+## 1. Familiarizarse con los Conceptos Clave 📖 
 - Antes de comenzar a interactuar con los asistentes de IA, es importante entender cómo establecer una relación de *pair programming* con la IA y conocer las buenas prácticas para una comunicación efectiva. Lee y comprende cómo aplicar este enfoque en el contexto de POO, cómo interactuar con la IA de manera activa y colaborativa, y cómo formular preguntas claras y específicas para obtener mejores resultados.
 - ⚖️ Revisa las consideraciones éticas y las limitaciones del uso de asistentes de IA para mantener una relación responsable y equilibrada. Esto incluye evitar la dependencia excesiva, ser transparente en cuanto al uso de IA y comprender que la IA puede tener limitaciones que deben ser complementadas con el juicio propio.
 
