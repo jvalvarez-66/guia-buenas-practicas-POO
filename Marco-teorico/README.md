@@ -9,11 +9,11 @@
 
 ## Índice
 
-- [1. Pair Programming con Asistentes de IA 🤝](#1-pair-programming-con-asistentes-de-ia-)
-- [2. Interacción Efectiva con la IA para Proyectos de POO 🚀](#2-interacción-efectiva-con-la-ia-para-proyectos-de-poo-)
-- [3. Consideraciones Éticas y Limitaciones de los Asistentes de IA 🤖](#3-consideraciones-éticas-y-limitaciones-de-los-asistentes-de-ia-)
+- [1. Pair Programming con Asistentes de IA ](#1-pair-programming-con-asistentes-de-ia-)
+- [2. Interacción Efectiva con la IA para Proyectos de POO ](#2-interacción-efectiva-con-la-ia-para-proyectos-de-poo-)
+- [3. Consideraciones Éticas y Limitaciones de los Asistentes de IA ](#3-consideraciones-éticas-y-limitaciones-de-los-asistentes-de-ia-)
 
-## 1. Pair Programming con Asistentes de IA 🤝
+## 1. Pair Programming con Asistentes de IA 👨‍💻🤖👩‍💻💡
 
 El concepto de *Pair Programming* (programación en pareja) se basa en la colaboración de dos programadores trabajando en el mismo código: uno actúa como el *Driver*, quien escribe el código, y el otro como *Observer* o *Navigator*, que revisa y sugiere mejoras. En un contexto donde se emplea un asistente de IA en lugar de un observador humano, se busca una relación similar en la que el asistente complementa al desarrollador sin tomar el control total del proceso de codificación.
 
@@ -25,7 +25,7 @@ En la Programación Orientada a Objetos, la IA puede proporcionar asistencia sob
 - 👨‍🎓 **El Rol del Estudiante (Driver)**: El estudiante desarrolla la lógica y estructura del programa, creando clases, atributos y métodos de acuerdo con los principios de POO. Además, decide cómo organizar la interacción entre objetos y los patrones de diseño a utilizar.
 - 🤖 **El Rol de la IA (Observer)**: La IA sugiere correcciones, recomienda mejores prácticas de diseño y ayuda a identificar errores de compilación o de lógica. Sin embargo, estas sugerencias deben ser revisadas críticamente por el estudiante para reforzar su aprendizaje y garantizar que se entienda el proceso de implementación.
 
-### 1.2. Panorama de Asistentes de IA para su uso en el Pair Programming
+### 1.2. Panorama de Asistentes de IA para su uso en el Pair Programming 🤖🌐
 En la actualidad, existe una variedad de asistentes de inteligencia artificial que pueden ser herramientas útiles para el pair programming y otras actividades de desarrollo colaborativo. Entre estos asistentes cabe destacar a ChatGPT, creado por OpenAI con financiación de Microsoft; Claude, desarrollado por Anthropic; Bard, desarrollado por Google; Gemini, de Google DeepMind; Mistral, de Mistral AI; y LLaMA, de Meta AI. Si bien esta lista puede cambiar a medida que la tecnología evoluciona, conocer las opciones actuales permite elegir el asistente que mejor se adapte a las necesidades específicas de cada proyecto. También  existen asistentes diseñados específicamente para la el proceso de codificación, como GitHub Copilot, que, gracias a su integración en entornos de desarrollo, ayuda a los programadores a escribir código de manera más eficiente y a reducir errores comunes. Otros ejemplos de este tipo de asistentes son Amazon CodeWhisperer, orientado a ayudar en el desarrollo con lenguajes soportados por AWS, y Tabnine, que utiliza IA para ofrecer sugerencias de código predictivas en múltiples lenguajes. 
 Como recurso adicional, la plataforma [lmarena.ai](https://lmarena.ai/) permite probar varios de estos asistentes de manera gratuita, incluso comparando sus respuestas en tiempo real para evaluar sus fortalezas y limitaciones en distintos contextos de uso.
 
@@ -33,13 +33,13 @@ Como recurso adicional, la plataforma [lmarena.ai](https://lmarena.ai/) permite 
 
 ## 2. Interacción Efectiva con la IA para Proyectos de POO 🚀
 
-### 2.1 Diálogo Activo y Colaborativo 🤝 
+### 2.1 Diálogo Activo y Colaborativo 💬🤝🤖 
 
 El éxito de la colaboración entre el estudiante y el asistente de IA radica en un diálogo continuo y participativo. Para aprovechar al máximo la IA, el estudiante debe involucrarse activamente en la comunicación, proporcionando el contexto necesario, formulando preguntas precisas y justificando sus decisiones de desarrollo. No se trata de una interacción unilateral; es esencial que el estudiante evalúe las sugerencias de la IA y reflexione sobre el código, imitando una colaboración de *pair programming*.
 
 En el contexto de Programación Orientada a Objetos (POO), el asistente puede ayudar a discutir la estructura de la jerarquía de clases, identificar relaciones entre objetos y analizar la implementación de interfaces o clases abstractas. Este tipo de diálogo colaborativo permite un entendimiento más profundo del código y fomenta la creación de soluciones bien fundamentadas.
 
-### 2.2 Ingeniería del Prompt o Cómo Hacer Preguntas Más Claras y Específicas 
+### 2.2 Ingeniería del Prompt o Cómo Hacer Preguntas Más Claras y Específicas 📝🤖✨ 
 
 La ingeniería del prompt es la disciplina que se encarga de establecer las estrategias de diseño, optimización y refinamiento a la hora de formular preguntas de manera clara, específica y contextualizada que permitan obtener respuestas útiles y relevantes de la inteligencia artificial (IA). La claridad en las preguntas es crucial, ya que las preguntas generales tienden a generar respuestas vagas, mientras que las preguntas precisas y detalladas aumentan la probabilidad de obtener respuestas más completas y adaptadas a las necesidades del proyecto. Este enfoque no solo mejora la calidad de las respuestas, sino que también fomenta una comprensión más profunda de conceptos, en nuestro caso de la programación orientada a objetos (POO), y desarrolla habilidades efectivas de resolución de problemas.
 
@@ -268,22 +268,22 @@ La ingeniería del prompt es la disciplina que se encarga de establecer las estr
 En resumen, aplicar ingeniería del prompt permite a los estudiantes formular preguntas más claras y específicas, optimizando la precisión y utilidad de las respuestas de la IA y facilitando la integración de conceptos avanzados (herencia, polimorfismo, implementación de interfaces, etc).
 
 
-### 2.3 Evaluar y Adaptar las Sugerencias de la IA 🔄 
+### 2.3 Evaluar y Adaptar las Sugerencias de la IA 🔍🤖✍️ 
 
 Cuando la IA sugiere un fragmento de código o una solución, el estudiante debe evaluar su relevancia y aplicabilidad en el contexto de su proyecto específico. Este proceso de evaluación permite que el estudiante mantenga el control del desarrollo, eligiendo métodos o técnicas que se ajusten al diseño general del proyecto. La IA puede sugerir alternativas para resolver un problema, pero es el estudiante quien debe seleccionar la opción más adecuada.
 
 ---
 
-## 3. Consideraciones Éticas y Limitaciones de los Asistentes de IA 🤖
+## 3. Consideraciones Éticas y Limitaciones de los Asistentes de IA ⚖️🚫🤖⚠️
 El uso de asistentes de IA en entornos de aprendizaje presenta desafíos éticos que deben ser abordados. La IA puede ofrecer soluciones rápidas y eficientes, pero es fundamental que los estudiantes utilicen estas herramientas de manera responsable y consciente de sus limitaciones.
 
 ### 3.1. Evitar la Dependencia 🚫🤖 
 El riesgo de desarrollar una dependencia de la IA es significativo, especialmente cuando se busca una solución sin intentar resolver el problema de manera independiente. El estudiante debe esforzarse por desarrollar sus propias soluciones antes de recurrir a la ayuda del asistente. Utilizar la IA como primera opción puede inhibir el desarrollo de habilidades de resolución de problemas y pensamiento crítico.
 
-### 3.2. Transparencia y Honestidad 🤝 
+### 3.2. Transparencia y Honestidad 🔎🤝 
 Cuando se emplea la IA para obtener ayuda, es importante ser honesto y transparente sobre las sugerencias que se utilizan. Copiar y pegar soluciones sin entenderlas va en contra del propósito educativo. Los estudiantes deben revisar y comprender cualquier fragmento de código proporcionado por la IA, y ser capaces de justificar su inclusión en el proyecto.
 
-### 3.3. Reconocer las Limitaciones de la IA ⚠️ 
+### 3.3. Reconocer las Limitaciones de la IA 🤖⚠️ 
 La IA no es infalible. Puede generar respuestas incorrectas, con sesgo o que no siguen las mejores prácticas de diseño. Por ello, es importante que el estudiante mantenga una actitud crítica ante las sugerencias. Algunas de las limitaciones más comunes de los asistentes de IA incluyen:
 
 - **Errores de Lógica**: La IA puede generar estructuras de control (como bucles o condicionales) que no se ajusten al flujo de la aplicación.
