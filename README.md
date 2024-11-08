@@ -18,7 +18,7 @@ En esta guía, se propone adaptar esta metodología mediante el uso de asistente
 ## 📑 Índice
 
 - ### [Cómo Utilizar esta Guía](/Uso-guia/README.md)
-- ### [Conceptos clave para un uso correcto de los asistentes de IA en Pair Programming](/Marco-teorico/README.md)
+- ### [Conceptos clave para un uso correcto de los asistentes de IA en el Pair Programming](/Marco-teorico/README.md)
   1. [Pair Programming con Asistentes de IA](/Marco-teorico/README.md#1-pair-programming-con-asistentes-de-ia-)
   2.  [Interacción Efectiva con la IA para Proyectos de POO](/Marco-teorico/README.md#2-interacción-efectiva-con-la-ia-para-proyectos-de-poo-)
   3. [Consideraciones Éticas y Limitaciones de los Asistentes de IA](/Marco-teorico/README.md#3-consideraciones-éticas-y-limitaciones-de-los-asistentes-de-ia-) 
