@@ -116,7 +116,7 @@ public class PracticaJuego {
 </details>
 <br>
 
-🔎 Observer: "El código presenta problemas de lógica en la clase `JuegoConVidas` y en la clase `JuegoAdivinaNumero`. Vamos a revisar ambos casos y proporcionar las correcciones necesarias:
+**Observer**: "El código presenta problemas de lógica en la clase `JuegoConVidas` y en la clase `JuegoAdivinaNumero`. Vamos a revisar ambos casos y proporcionar las correcciones necesarias:
 
 ### 🚨 Problemas Encontrados:
 

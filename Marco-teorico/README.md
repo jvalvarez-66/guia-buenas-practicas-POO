@@ -13,11 +13,12 @@
 - [2. Interacción Efectiva con la IA para Proyectos de POO ](#2-interacción-efectiva-con-la-ia-para-proyectos-de-poo-)
 - [3. Consideraciones Éticas y Limitaciones de los Asistentes de IA ](#3-consideraciones-éticas-y-limitaciones-de-los-asistentes-de-ia-)
 
+---
+
 ## 1. Pair Programming con Asistentes de IA 👨‍💻🤖👩‍💻💡
 
 El concepto de *Pair Programming* (programación en pareja) se basa en la colaboración de dos programadores trabajando en el mismo código: uno actúa como el *Driver*, quien escribe el código, y el otro como *Observer* o *Navigator*, que revisa y sugiere mejoras. En un contexto donde se emplea un asistente de IA en lugar de un observador humano, se busca una relación similar en la que el asistente complementa al desarrollador sin tomar el control total del proceso de codificación.
-
----
+<br>
 
 ### 1.1 Aplicación en el Entorno de Programación Orientada a Objetos (POO) 🖥️
 
@@ -277,7 +278,7 @@ Cuando la IA sugiere un fragmento de código o una solución, el estudiante debe
 
 ---
 
-## 3. Consideraciones Éticas y Limitaciones de los Asistentes de IA ⚖️🚫🤖⚠️
+## 3. Consideraciones Éticas y Limitaciones de los Asistentes de IA  ⚖️🚫🤖⚠️
 El uso de asistentes de IA en entornos de aprendizaje presenta desafíos éticos que deben ser abordados. La IA puede ofrecer soluciones rápidas y eficientes, pero es fundamental que los estudiantes utilicen estas herramientas de manera responsable y consciente de sus limitaciones.
 
 ### 3.1. Evitar la Dependencia 🚫🤖 
