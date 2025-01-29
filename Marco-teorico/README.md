@@ -11,7 +11,7 @@
 
 - [1. Pair Programming con Asistentes de IA ](#1-pair-programming-con-asistentes-de-ia-)
 - [2. Interacción Efectiva con la IA para Proyectos de POO ](#2-interacción-efectiva-con-la-ia-para-proyectos-de-poo-)
-- [3. Consideraciones Éticas y Limitaciones de los Asistentes de IA ](#3-consideraciones-éticas-y-limitaciones-de-los-asistentes-de-ia-)
+- [3. Consideraciones Éticas y Limitaciones de los Asistentes de IA](#3-consideraciones-éticas-y-limitaciones-de-los-asistentes-de-ia-)
 
 ---
 
