@@ -277,7 +277,7 @@ En resumen, aplicar ingeniería del prompt permite a los estudiantes formular pr
 Cuando la IA sugiere un fragmento de código o una solución, el estudiante debe evaluar su relevancia y aplicabilidad en el contexto de su proyecto específico. Este proceso de evaluación permite que el estudiante mantenga el control del desarrollo, eligiendo métodos o técnicas que se ajusten al diseño general del proyecto. La IA puede sugerir alternativas para resolver un problema, pero es el estudiante quien debe seleccionar la opción más adecuada.
 
 ---
-
+<a id="consideraciones-eticas"></a>
 ## 3. Consideraciones Éticas y Limitaciones de los Asistentes de IA  ⚖️🚫🤖⚠️
 El uso de asistentes de IA en entornos de aprendizaje presenta desafíos éticos que deben ser abordados. La IA puede ofrecer soluciones rápidas y eficientes, pero es fundamental que los estudiantes utilicen estas herramientas de manera responsable y consciente de sus limitaciones.
 
