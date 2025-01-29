@@ -4,7 +4,7 @@
 </div>
 
 La filosofía de *pair programming* (programación en pareja) es una técnica de desarrollo de software en la que dos programadores trabajan juntos sobre una sola computadora. Mientras uno desarrolla el código (*driver*), el otro revisa y sugiere mejoras (*observer* o *navigator*). 
-En esta guía, se propone adaptar esta metodología mediante el uso de asistentes de inteligencia artificial (IA), considerando a la IA como el "copiloto" del estudiante durante el proceso de aprendizaje de la Programación Orientada a Objetos (POO). Para ello, se explorarán buenas prácticas de uso de la IA de una manera ética, efectiva y productiva.
+En esta guía se propone adaptar esta metodología mediante el uso de asistentes de inteligencia artificial (IA), considerando a la IA como el "copiloto" del estudiante durante el proceso de aprendizaje de la Programación Orientada a Objetos (POO). Para ello, se explorarán buenas prácticas de uso de la IA de una manera ética, efectiva y productiva.
 <br>
 
 
