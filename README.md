@@ -45,7 +45,7 @@ La presente guía es el resultado del esfuerzo conjunto de un equipo multidiscip
 - María Victoria Vega Agapito<sup>2</sup> 
 - Francisco Hernando Gallego<sup>1</sup> 
 - Berta San Isidro San Cristobal<sup>1</sup> 
-
+- Cesar Santos Muñoz <sup>1</sup>
   1. Escuela de Ingeniería Informática de Segovia, Departamento de Informática, Universidad de Valladolid
   2. Facultad de Educación de Segovia, Departamento de Didáctica de las Ciencias Experimentales, Sociales y de la Matemática, Universidad de Valladolid  
 
