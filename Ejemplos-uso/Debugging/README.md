@@ -2,6 +2,8 @@
 **Fecha:** febrero de 2024 <br>
 **IA:** ChatGPT-4o
 
+- [Volver al Índice Principal de los Ejemplos de Uso](/Ejemplos-uso/README.md)
+- [Volver al Índice Principal de la Guía](/README.md)
 ## Contexto 💡
 La idea es utilizar la IA para que seas capaz de mejorar con la deteccion de errores, pudiendo ser estos logicos, de sintaxis o incluso de como esta estructurado el codigo.
 En este caso se han puesto 3 casos de pruebas que van aumentado en dificultad.

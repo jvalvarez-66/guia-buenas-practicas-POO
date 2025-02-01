@@ -29,7 +29,7 @@ En esta guía se propone adaptar esta metodología mediante el uso de asistentes
   2. [Refactorizar para Mejorar el Código](/Ejemplos-uso/Mejorar-codigo/README.md)
   3. [Refactorizar para Reutilizar (Herencia/polimorfismo).](/Ejemplos-uso/Refactorizar-polimorfismo/README.md)
   4. [Evaluar un Diseño Orientado a Objetos: Auditoría SOLID](/Ejemplos-uso/Solid/README.md)
-
+  5. [Utilizar la IA para mejorar la deteccion de errores.](/Ejemplos-uso/Debugging/README.md)
 <br>
 
 ---
