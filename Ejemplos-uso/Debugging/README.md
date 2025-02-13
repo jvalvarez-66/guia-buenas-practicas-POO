@@ -4,22 +4,23 @@
 
 - [Volver al Índice Principal de los Ejemplos de Uso](/Ejemplos-uso/README.md)
 - [Volver al Índice Principal de la Guía](/README.md)
+
 ## Contexto 💡
-La idea es utilizar la IA para que seas capaz de mejorar con la deteccion de errores, pudiendo ser estos logicos, de sintaxis o incluso de como esta estructurado el codigo.
-En este caso se han puesto 3 casos de pruebas que van aumentado en dificultad.
+La idea es utilizar un asistente IA para entrenar y mejorar las habilidades de deteccion de errores por inspección. Los errores pueden ser de tipo lógico, de sintaxis o, incluso, de como se estructura el codigo. Además, en los ejemplos propuestos en este caso de uso se le solicita explicitamente al asistente de IA que module el nivel de dificultad del código a analizar, de tal manera que las pruebas empiecen con un ejemplo sencillo para, a continuación, ir aumentando de manera progresiva su complejidad.
 
 ## 💬 Diálogo
 
-## Nivel facil
-### Pregunta Usuario
-Generame un prgrama facil el cual contenga errores, sin decirme cuales son, haz que los errores sean tanto sintacticos como logicos
+## Nivel de dificultad bajo
+### Solicitud del Usuario
+Genera un programa en Java de nivel de dificultad bajo que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. los errores pueden ser sintacticos o lógicos. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
 
+### Respuesta de ChatGPT
 <details>
-<summary>Contestacion de ChatGPT</summary>
+<summary>Código</summary>
 <br>
 
-Aquí tienes un programa sencillo en Java que contiene algunos errores tanto sintácticos como lógicos:
 ```Java
+
 import java.util.Scanner;
 
 public class Calculadora {
@@ -56,39 +57,45 @@ public class Calculadora {
 }
 ```
 </details>
+
 Este programa tiene errores que abarcan diferentes aspectos. Intenta identificar y corregir los errores para que el programa funcione correctamente. ¡Diviértete resolviendo el reto!
 
-### Pregunta  Usuario
-Para capturar el primer numero tendrias que hacerun wrap a double y la division nunca puede ser por 0, tambien en main se deberia de poner con dos ( ) para que quedara asi main(String ( ) args)
+### Respuesta del Usuario
+<ol>
+<li> Para capturar el primer número tendrías que hacer un wrap a double.</li>
+<Li> El divisor en una division nunca puede ser por 0.</li>
+<li> El argumento del método main deberia ir dos [] para que quedara asi: main(String [] args)</li>
 
 ### Respuesta Chatgpt:
 ¡Correcto! Has identificado varios de los errores en el programa. Aquí hay un desglose de los errores que mencionaste y otros que podrías encontrar:
 <ol>
-   <li> Declaración incorrecta del método main:
-    El método principal debería declararse como public static void main(String[] args) en lugar de public static void main(String args).</li>
+    <li>  Declaración incorrecta del método main: El método principal debería declararse como public static void main(String[] args) en lugar de public static void main(String args).</li>
 
-   <li>  Captura incorrecta del número:
-    Usar scanner.nextLine() para leer un número no es correcto. La solución sería usar Double.parseDouble(scanner.nextLine()) para convertir la entrada a double.</li>
+   <li> Captura incorrecta del número: Usar scanner.nextLine() para leer un número no es correcto. La solución sería usar Double.parseDouble(scanner.nextLine()) para convertir la entrada a double.</li>
 
-   <li>  División por cero:
-    En el caso de la operación de división, no puedes dividir por cero. Es necesario manejar este caso para evitar un error de ejecución.</li>
+   <li> División por cero: En el caso de la operación de división, no puedes dividir por cero. Es necesario manejar este caso para evitar un error de ejecución.</li>
 
-   <li>  Comparación incorrecta de cadenas:
-    La comparación de cadenas con == no funciona como se espera en Java. Debería usarse .equals() o .equalsIgnoreCase() para comparar cadenas correctamente.</li>
+   <li>Comparación incorrecta de cadenas: La comparación de cadenas con == no funciona como se espera en Java. Debería usarse .equals() o .equalsIgnoreCase() para comparar cadenas correctamente.</li>
 
-   <li>  Lógica incorrecta en la resta:
-    En el bloque de la operación "resta", el código realiza una suma en lugar de una resta.</li> 
+   <li>Lógica incorrecta en la resta: En el bloque de la operación "resta", el código realiza una suma en lugar de una resta.</li>
 </ol>
 
-## Nivel Medio
+### Comentarios:
+En este ejemplo se ilustra muy bien como responde chatGPT cuando no se detectan todos los errores. Aporta información sobre los que se han identificado e incluye información sobre aquellos que quedaron sin ser detectados. 
 
-### Pregunta Usuario
-Genérame un prgrama de dificultad media el cual contenga errores, sin decirme cuáles son, haz que los errores sean tanto sintácticos como logicos
+
+## Nivel de dificultad Medio
+
+### Solicitud del Usuario
+Genera un programa en Java de nivel de dificultad medio que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. los errores pueden ser sintácticos o lógicos. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
+
+### Respuesta de ChatGPT
 <details>
-<summary>Contestacion de ChatGPT</summary>
+<summary>Código</summary>
 <br>
 
 Aquí tienes un programa de dificultad media en Java que contiene errores tanto sintácticos como lógicos. ¡Buena suerte encontrándolos! 🚀
+
 ```Java
 import java.util.Scanner;
 
@@ -145,15 +152,21 @@ public class GestorDeEstudiantes {
 ```
 </details>
 
-### Respuesta Usuario
-La búsqueda del estudiante con más nota es incorrecto, logica incorrecta registrando estudiantes en el bucle
-### Respuesta ChatGPT
+### Respuesta del Usuario
+<ol>
+<li> La búsqueda del estudiante con más nota es incorrecta.</li>
+<li> La logica para registrar estudiantes en el bucle es incorrecta.</li>
+</ol>
+
+### Respuesta de ChatGPT
 ¡Exacto! Identificaste con precisión dos errores importantes en el programa. Analicemos los problemas que mencionaste y otros que también podrían estar presentes:
 <ol>
 <li> Búsqueda del estudiante con la mejor calificación
 
 El bucle comienza con i = 1 y la variable mejorCalificacion está inicializada en 0. Esto hace que si la primera calificación es menor que 0 (aunque improbable), el resultado sería incorrecto. Además, el primer estudiante no se evalúa correctamente en la búsqueda.
-</li><li>Lógica incorrecta en el registro de estudiantes
+</li>
+
+<li>Lógica incorrecta en el registro de estudiantes
 
 Dentro del bucle for, se usa scanner.nextLine() después de scanner.nextInt(), lo que genera un problema con el salto de línea residual. Esto provoca un comportamiento inesperado al leer los nombres de los estudiantes.</li>
 </ol>
@@ -161,7 +174,7 @@ Programa Corregido
 
 Aquí tienes una versión corregida con las observaciones aplicadas:
 <details>
-<summary>Contestacion de ChatGPT</summary>
+<summary>Código corregido por ChatGPT</summary>
 <br>
 
 ```Java
@@ -221,14 +234,18 @@ public class GestorDeEstudiantes {
 }
 
 ```
+### Comentario:
+Es significativo que al aumentar el nivel de complejidad del código, chatGPT aporte, además de las explicaciones, el código corregido.
+
 </details>
 
-## Nivel Alto
-### Pregunta del Usuario
-Generame un prgrama de dificultad alta el cual contenga todo tipo de errores logicos sintacticos o malas uilizaciones de patrones, multiples clases, y generacidad, decirme cuales son.
+## Nivel de dificultad Alto
+### Solicitud del Usuario
+Genera un programa en Java de nivel de dificultad alto que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. Los errores pueden ser sintácticos o lógicos. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
 
+### Respuesta de ChatGPT
 <details>
-<summary>Contestacion de ChatGPT</summary>
+<summary>Código</summary>
 
 ```Java
   import java.util.ArrayList;
@@ -338,11 +355,18 @@ public class Main {
 ```
 </details>
 
-### Respuesta Usuario <br>
-Main mal declarado, permite un salario negativo de un trabajador,intento de instanciar una clase empleado que es abstracta, setSalario no modifica el salario correctamente y hay atributos definidos que no se usan
+Aquí tienes un programa de dificultad alta en Java que contiene errores tanto sintácticos como lógicos. ¡Buena suerte encontrándolos!
 
-### Respuesta Chatgpt:
+### Respuesta del Usuario <br>
+<ol>
+<li> El método main está mal declarado.</li>
+<li> Se permite un salario negativo de un trabajador.</li>
+<li> Se intenta instanciar una clase que es abstracta (clase Empleado).</li>
+<li> El método setSalario no modifica el salario correctamente.</li>
+<li> Hay atributos definidos que no se usan.
+</ol>
 
+### Respuesta de Chatgpt:
 <ol>
  <li> main mal declarado
 El método principal está declarado incorrectamente como main(String args) en lugar de main(String[] args).</li>
@@ -361,7 +385,7 @@ Por ejemplo, se define el atributo lenguaje en la clase Programador, pero su imp
 </ol>
 
 <details>
-<summary>Correccion de ChatGPT</summary>
+<summary>Códifo corregido por ChatGPT</summary>
 
 ```Java
 import java.util.ArrayList;
