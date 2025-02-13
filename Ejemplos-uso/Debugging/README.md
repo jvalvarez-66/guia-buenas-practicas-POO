@@ -15,8 +15,10 @@ La idea es utilizar un asistente IA para entrenar y mejorar las habilidades de d
 Genera un programa en Java de nivel de dificultad bajo que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. los errores pueden ser sintacticos o lógicos. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
 
 ### Respuesta de ChatGPT
+Este programa tiene errores que abarcan diferentes aspectos. Intenta identificar y corregir los errores para que el programa funcione correctamente. ¡Diviértete resolviendo el reto!
+
 <details>
-<summary>Código</summary>
+<summary>Código propuesto para su depuración</summary>
 <br>
 
 ```Java
@@ -58,13 +60,12 @@ public class Calculadora {
 ```
 </details>
 
-Este programa tiene errores que abarcan diferentes aspectos. Intenta identificar y corregir los errores para que el programa funcione correctamente. ¡Diviértete resolviendo el reto!
-
 ### Respuesta del Usuario
 <ol>
-<li> Para capturar el primer número tendrías que hacer un wrap a double.</li>
-<Li> El divisor en una division nunca puede ser por 0.</li>
-<li> El argumento del método main deberia ir dos [] para que quedara asi: main(String [] args)</li>
+    <li> Para capturar el primer número tendrías que hacer un wrap a double.</li>
+    <Li> El divisor en una division nunca puede ser por 0.</li>
+    <li> El argumento del método main deberia ir dos [] para que quedara asi: main(String [] args)</li>
+</ol>
 
 ### Respuesta Chatgpt:
 ¡Correcto! Has identificado varios de los errores en el programa. Aquí hay un desglose de los errores que mencionaste y otros que podrías encontrar:
@@ -90,11 +91,11 @@ En este ejemplo se ilustra muy bien como responde chatGPT cuando no se detectan 
 Genera un programa en Java de nivel de dificultad medio que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. los errores pueden ser sintácticos o lógicos. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
 
 ### Respuesta de ChatGPT
-<details>
-<summary>Código</summary>
-<br>
-
 Aquí tienes un programa de dificultad media en Java que contiene errores tanto sintácticos como lógicos. ¡Buena suerte encontrándolos! 🚀
+
+<details>
+<summary>Código propuesto para su depuración</summary>
+<br>
 
 ```Java
 import java.util.Scanner;
@@ -170,6 +171,7 @@ El bucle comienza con i = 1 y la variable mejorCalificacion está inicializada e
 
 Dentro del bucle for, se usa scanner.nextLine() después de scanner.nextInt(), lo que genera un problema con el salto de línea residual. Esto provoca un comportamiento inesperado al leer los nombres de los estudiantes.</li>
 </ol>
+
 Programa Corregido
 
 Aquí tienes una versión corregida con las observaciones aplicadas:
@@ -244,8 +246,10 @@ Es significativo que al aumentar el nivel de complejidad del código, chatGPT ap
 Genera un programa en Java de nivel de dificultad alto que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. Los errores pueden ser sintácticos o lógicos. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
 
 ### Respuesta de ChatGPT
+Aquí tienes un programa de dificultad alta en Java que contiene errores tanto sintácticos como lógicos. ¡Buena suerte encontrándolos!
+
 <details>
-<summary>Código</summary>
+<summary>Código propuesto para su depuración</summary>
 
 ```Java
   import java.util.ArrayList;
@@ -355,8 +359,6 @@ public class Main {
 ```
 </details>
 
-Aquí tienes un programa de dificultad alta en Java que contiene errores tanto sintácticos como lógicos. ¡Buena suerte encontrándolos!
-
 ### Respuesta del Usuario <br>
 <ol>
 <li> El método main está mal declarado.</li>
@@ -384,6 +386,10 @@ Atributos definidos pero no utilizados
 Por ejemplo, se define el atributo lenguaje en la clase Programador, pero su implementación no está correctamente justificada o aprovechada.</li>
 </ol>
 
+
+Programa Corregido
+
+Aquí tienes una versión corregida con las observaciones aplicadas:
 <details>
 <summary>Códifo corregido por ChatGPT</summary>
 
