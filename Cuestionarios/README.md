@@ -25,7 +25,7 @@ ________________________________________
 8.	¿Reflexionas sobre cómo mejorar una pregunta tras obtener una respuesta poco útil?
 9.	¿Reformulas una pregunta agregando más detalles específicos si no obtienes la respuesta que esperabas?
 10.	¿Evalúas críticamente las respuestas del asistente antes de aceptarlas?
-## Dimensión 4: Uso de preguntas abiertas y exploración creativa
+## Dimensión 4: Uso de preguntas abiertas
 11.	¿Utilizas preguntas abiertas para explorar distintas formas de resolver un problema?
 12.	¿Planteas preguntas amplias cuando necesitas generar ideas para un proyecto?
 
@@ -56,7 +56,7 @@ ________________________________________
 8. ¿Reflexionas con más frecuencia sobre cómo mejorar tus preguntas tras obtener una respuesta poco útil, gracias a las indicaciones de la guía?
 9. ¿Reformulas tus preguntas incluyendo más detalles si la respuesta inicial no cumple tus expectativas, tras la aplicación de la guía?
 10. ¿Evalúas más críticamente las respuestas del asistente antes de aceptarlas como válidas después de haber trabajado con la guía?
-## Dimensión 4: Uso de preguntas abiertas y exploración creativa
+## Dimensión 4: Uso de preguntas abiertas
 11. ¿Utilizas preguntas abiertas con mayor frecuencia para explorar distintas formas de resolver un problema tras aplicar la guía?
 12. ¿Planteas más preguntas amplias para generar ideas en tus proyectos después de haber seguido las recomendaciones de la guía?
 
