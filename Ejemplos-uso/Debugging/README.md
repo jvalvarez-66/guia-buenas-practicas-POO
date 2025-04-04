@@ -243,7 +243,7 @@ Es significativo que al aumentar el nivel de complejidad del código, chatGPT ap
 
 ## Nivel de dificultad Alto
 ### Solicitud del Usuario
-Genera un programa en Java de nivel de dificultad alto que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. Los errores pueden ser sintácticos o lógicos. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
+Genera un programa en Java de nivel de dificultad alto que contenga errores, sin indicar en el código cuales son ni dar pistas de donde se pueden encontrar. Los errores pueden ser sintácticos, lógicos, malas uilizaciones de patrones o mal uso de la generacidad. La idea es que me sirva para poder entrenar mis habilidades de depuración por inspección.
 
 ### Respuesta de ChatGPT
 Aquí tienes un programa de dificultad alta en Java que contiene errores tanto sintácticos como lógicos. ¡Buena suerte encontrándolos!
@@ -391,7 +391,7 @@ Programa Corregido
 
 Aquí tienes una versión corregida con las observaciones aplicadas:
 <details>
-<summary>Códifo corregido por ChatGPT</summary>
+<summary>Código corregido por ChatGPT</summary>
 
 ```Java
 import java.util.ArrayList;
