@@ -17,12 +17,12 @@ ________________________________________
 2.	¿Tienes claro el objetivo de tu pregunta antes de usar un asistente de IA?
 3.	¿Tienes claro qué tipo de respuesta necesitas antes de formular una pregunta al asistente de IA?
 4.	¿Te esfuerzas en que tus preguntas sean claras y específicas?
-## Dimensión 2: Comodidad en el uso de asistentes de IA
-5.	¿Te sientes cómodo utilizando asistentes de IA para resolver dudas en programación?
+## Dimensión 2: Comodidad y frecuencia en el uso de asistentes de IA
+5.	¿Te sientes cómodo utilizando asistentes de IA para resolver tus dudas o consultas académicas? 
 6.	¿Sientes que puedes aprovechar eficazmente los asistentes de IA durante tu aprendizaje?
 7.	¿Confías en tu capacidad para interactuar eficazmente con un asistente de IA?
 ## Dimensión 3: Reflexión crítica y reformulación
-8.	¿Reflexionas sobre cómo mejorar una pregunta tras obtener una respuesta poco útil?
+8.	¿Consideras que eres consciente de los límites y posibles errores de los asistentes de IA?
 9.	¿Reformulas una pregunta agregando más detalles específicos si no obtienes la respuesta que esperabas?
 10.	¿Evalúas críticamente las respuestas del asistente antes de aceptarlas?
 ## Dimensión 4: Uso de preguntas abiertas
@@ -49,11 +49,11 @@ ________________________________________
 3. ¿Identificas mejor qué tipo de respuesta necesitas antes de formular tu consulta al asistente, tras aplicar la guía?
 4. ¿Te esfuerzas más en que tus preguntas sean claras y específicas como resultado de la aplicación de la guía?
 ## Dimensión 2: Comodidad en el uso de asistentes de IA
-5. ¿Te sientes más cómodo utilizando asistentes de IA para resolver dudas en programación tras aplicar la guía?
+5. ¿Te sientes más cómodo utilizando asistentes de IA para resolver dudas o consultas académicas tras aplicar la guía?
 6. ¿Percibes que puedes aprovechar mejor los asistentes de IA durante tu aprendizaje después de seguir las recomendaciones de la guía?
 7. ¿Confías más en tu capacidad para interactuar eficazmente con un asistente de IA tras la intervención con la guía?
 ## Dimensión 3: Reflexión crítica y reformulación
-8. ¿Reflexionas con más frecuencia sobre cómo mejorar tus preguntas tras obtener una respuesta poco útil, gracias a las indicaciones de la guía?
+8. ¿Consideras que ahora eres más consciente de los límites y posibles errores de los asistentes de IA tras la aplicación de la guía?
 9. ¿Reformulas tus preguntas incluyendo más detalles si la respuesta inicial no cumple tus expectativas, tras la aplicación de la guía?
 10. ¿Evalúas más críticamente las respuestas del asistente antes de aceptarlas como válidas después de haber trabajado con la guía?
 ## Dimensión 4: Uso de preguntas abiertas
