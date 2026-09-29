@@ -6,9 +6,9 @@
 **IA:** ChatGPT-4o
 ---  
 
-- [Volver al Índice Principal de los Ejemplos de uso](/Ejemplos-uso/README.md)
+- [Volver al Índice Principal de los Ejemplos de uso](../README.md)
 
-- [Volver al Índice Principal de la Guía](/README.md)
+- [Volver al Índice Principal de la Guía](../../README.md)
 
 ---
 

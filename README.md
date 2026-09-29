@@ -1,52 +1,15 @@
-<div style="text-align: justify;">
+# Recursos docentes para el uso de IA en Programación Orientada a Objetos
 
-# 🌟 Guía de Buenas Prácticas para el Uso Responsable y Productivo de Asistentes de IA en la Programación Orientada a Objetos (POO)
-</div>
+Este repositorio reúne dos recursos relacionados que pueden consultarse por separado:
 
-La filosofía de *pair programming* (programación en pareja) es una técnica de desarrollo de software en la que dos programadores trabajan juntos sobre una sola computadora. Mientras uno desarrolla el código (*driver*), el otro revisa y sugiere mejoras (*observer* o *navigator*). 
-En esta guía se propone adaptar esta metodología mediante el uso de asistentes de inteligencia artificial (IA), considerando a la IA como el "copiloto" del estudiante durante el proceso de aprendizaje de la Programación Orientada a Objetos (POO). Para ello, se explorarán buenas prácticas de uso de la IA de una manera ética, efectiva y productiva.
-<br>
+1. **[Guía de buenas prácticas para el uso de asistentes de IA en POO](guias_buenas_practicas_poo/)**. Presenta orientaciones y ejemplos sobre el uso responsable y crítico de asistentes de IA durante el aprendizaje de la programación orientada a objetos.
+2. **[Retroalimentación formativa con IA generativa en POO](retroalimentación_formativa_poo/)**. Reúne los cinco enunciados de una secuencia de prácticas encadenadas y la plantilla del informe de laboratorio para el alumnado. Incluye, para docentes, una guía interdisciplinar de adaptación del protocolo SEED y el artículo que describe y evalúa la experiencia en POO.
 
+## ¿Por dónde empezar?
 
-<p align="center">
-  <img src="images/imagen3.webp" alt="Imagen de un asistente">
-</p>
+| Si quieres… | Consulta… |
+| --- | --- |
+| Orientaciones y ejemplos generales sobre asistentes de IA en POO | [Guía de buenas prácticas](guias_buenas_practicas_poo/) |
+| Enunciados, plantilla y documentos docentes de la experiencia de retroalimentación | [Retroalimentación formativa en POO](retroalimentación_formativa_poo/) |
 
-
----
-
-## 📑 Índice
-
-- ### [Cómo Utilizar esta Guía](/Uso-guia/README.md)
-- ### [Conceptos clave para un uso correcto de los asistentes de IA en el Pair Programming](/Marco-teorico/README.md)
-  1. [Pair Programming con Asistentes de IA](/Marco-teorico/README.md#1-pair-programming-con-asistentes-de-ia-)
-  2.  [Interacción Efectiva con la IA para Proyectos de POO](/Marco-teorico/README.md#2-interacción-efectiva-con-la-ia-para-proyectos-de-poo-)
-  3. [Consideraciones Éticas y Limitaciones de los Asistentes de IA](/Marco-teorico/README.md#consideraciones-eticas)
-
-
-- ### [Ejemplos de Utilización de Asistentes IA en POO](/Ejemplos-uso/README.md)
-  1. [Solicitar Revisión y Feedback del Código.](/Ejemplos-uso/Solicitar-revision/README.md)
-  2. [Refactorizar para Mejorar el Código](/Ejemplos-uso/Mejorar-codigo/README.md)
-  3. [Refactorizar para Reutilizar (Herencia/polimorfismo).](/Ejemplos-uso/Refactorizar-polimorfismo/README.md)
-  4. [Evaluar un Diseño Orientado a Objetos: Auditoría SOLID](/Ejemplos-uso/Solid/README.md)
-  5. [Utilizar la IA para mejorar la deteccion de errores.](/Ejemplos-uso/Debugging/README.md)
-<br>
-
----
-
-La presente guía es el resultado del esfuerzo conjunto de un equipo multidisciplinar de profesores de la Universidad de Valladolid, en su campus de Segovia, desarrollado en el contexto de un proyecto de innovación docente. Este proyecto tiene como propósito mejorar el proceso de enseñanza-aprendizaje de la programación orientada a objetos mediante la incorporación de asistentes de IA.
-
----
-# Autores
-
-- José Vicente Álvarez Bravo<sup>1</sup> 
-- Diego Martín de Andrés<sup>1</sup>  
-- María Antonia López Luengo<sup>2</sup>  
-- María Victoria Vega Agapito<sup>2</sup> 
-- Francisco Hernando Gallego<sup>1</sup> 
-- Berta San Isidro San Cristobal<sup>1</sup> 
-- Cesar Santos Muñoz <sup>1</sup>
-  1. Escuela de Ingeniería Informática de Segovia, Departamento de Informática, Universidad de Valladolid
-  2. Facultad de Educación de Segovia, Departamento de Didáctica de las Ciencias Experimentales, Sociales y de la Matemática, Universidad de Valladolid  
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+La guía de buenas prácticas aborda distintos usos de los asistentes de IA en POO. Los materiales de retroalimentación formativa documentan una intervención concreta en la que el estudiante revisa críticamente los comentarios de la IA sobre un trabajo que ya ha realizado.

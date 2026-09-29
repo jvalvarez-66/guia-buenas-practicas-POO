@@ -2,8 +2,8 @@
 **Fecha:** febrero de 2024 <br>
 **IA:** ChatGPT-4o
 
-- [Volver al Índice Principal de los Ejemplos de Uso](/Ejemplos-uso/README.md)
-- [Volver al Índice Principal de la Guía](/README.md)
+- [Volver al Índice Principal de los Ejemplos de Uso](../README.md)
+- [Volver al Índice Principal de la Guía](../../README.md)
 
 ## Contexto 💡
 La idea es utilizar un asistente IA para entrenar y mejorar las habilidades de deteccion de errores por inspección. Los errores pueden ser de tipo lógico, de sintaxis o, incluso, de como se estructura el codigo. Además, en los ejemplos propuestos en este caso de uso se le solicita explicitamente al asistente de IA que module el nivel de dificultad del código a analizar, de tal manera que las pruebas empiecen con un ejemplo sencillo para, a continuación, ir aumentando de manera progresiva su complejidad.

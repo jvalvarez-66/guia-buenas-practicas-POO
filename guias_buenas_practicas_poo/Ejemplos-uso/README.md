@@ -16,12 +16,12 @@ El repositorio de ejemplos que aquí se presenta es el resultado de un esfuerzo 
 
 
 ## Índice
-### [1. 🔍 Solicitar Revisión y Feedback del Código.](/Ejemplos-uso/Solicitar-revision/README.md)
-### [2. 🛠️ Refactorizar para Mejorar el Código](/Ejemplos-uso/Mejorar-codigo/README.md)  
-### [3. ♻️ Refactorizar para Reutilizar (Herencia/polimorfismo).](/Ejemplos-uso/Refactorizar-polimorfismo/README.md)
-### [4. 📝 Evaluar un Diseño Orientado a Objetos: Auditoría SOLID](/Ejemplos-uso/Solid/README.md)
-### [5. 👀 Utilizar la IA para mejorar la deteccion de errores.](/Ejemplos-uso/Debugging/README.md)
+### [1. 🔍 Solicitar Revisión y Feedback del Código.](Solicitar-revision/README.md)
+### [2. 🛠️ Refactorizar para Mejorar el Código](Mejorar-codigo/README.md)
+### [3. ♻️ Refactorizar para Reutilizar (Herencia/polimorfismo).](Refactorizar-polimorfismo/README.md)
+### [4. 📝 Evaluar un Diseño Orientado a Objetos: Auditoría SOLID](Solid/README.md)
+### [5. 👀 Utilizar la IA para mejorar la deteccion de errores.](Debugging/README.md)
 
-### [- Volver al Índice Principal de la Guía](/README.md)
+### [- Volver al Índice Principal de la Guía](../README.md)
 
 </div>

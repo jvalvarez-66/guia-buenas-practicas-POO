@@ -294,6 +294,6 @@ La IA no es infalible. Puede generar respuestas incorrectas, con sesgo o que no 
 - **Malas Prácticas de Diseño**: Pueden ocurrir violaciones de principios de desarrollo, como el principio de responsabilidad única o el principio de sustitución de Liskov en POO.
 - **Sesgos en la Lógica de Negocio**: Los asistentes de IA pueden generar código que refuerza estereotipos o presenta sesgos no intencionados en el desarrollo de la lógica de la aplicación, por ejemplo, favoreciendo ciertos productos o servicios debido a la influencia de patrocinadores o intereses comerciales de la organización que la desarrolla.
 
-### [- Volver al Índice Principal de la Guía](/README.md)
+### [- Volver al Índice Principal de la Guía](../README.md)
 
 </div>

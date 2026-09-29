@@ -35,6 +35,6 @@ Esta guía está diseñada para ayudar a los estudiantes a integrar de manera ef
 - ❓ Usa la IA como un medio para entender el *por qué* y no solo el *cómo*. Al solicitar ayuda, siempre pregunta la razón detrás de cada sugerencia para desarrollar una comprensión más profunda de POO.
 - 🤝 Discute las soluciones propuestas por la IA con tus compañeros de clase y profesores. La retroalimentación adicional te permitirá evaluar la efectividad del uso de IA y reforzar los conceptos aprendidos.
 
-  ### [- Volver al Índice Principal de la Guía](/README.md)
+  ### [- Volver al Índice Principal de la Guía](../README.md)
 
 </div>

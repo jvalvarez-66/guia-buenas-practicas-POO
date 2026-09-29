@@ -6,8 +6,8 @@
 **Fecha**: septiembre de 2024  
 **IA**: ChatGPT-4o
 
-- [Volver al Índice Principal de los Ejemplos de Uso](/Ejemplos-uso/README.md)
-- [Volver al Índice Principal de la Guía](/README.md)
+- [Volver al Índice Principal de los Ejemplos de Uso](../README.md)
+- [Volver al Índice Principal de la Guía](../../README.md)
 
 ---
 
